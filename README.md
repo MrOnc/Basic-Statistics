@@ -1,4 +1,5 @@
-# Username: Onc Password : OncOnc
+# Username: Onc 
+# Password : OncOnc
 Bu Python kodu, PyQt5 kütüphanesini kullanarak bir hesaplama uygulaması oluşturur. Uygulama, kullanıcıların istatistiksel hesaplamalar yapmalarına ve malzeme/stok yönetimi ile ilgili bazı hesaplamaları gerçekleştirmelerine olanak tanır. İşlevselliği üç farklı bölümde toplanmıştır:
 
 Giriş Ekranı:
